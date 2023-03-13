@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Chaudhary</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="[https://giphy.com/embed/RbDKaczqWovIugyJmW](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoder&tbnid=e9hPImsTmTzH1M&vet=12ahUKEwizo7iE-Nj9AhWI63MBHfYyCnMQMygzegQIARBe..i&docid=as0Wf4WMC2PzXM&w=480&h=270&q=coding%20gif%20images&ved=2ahUKEwizo7iE-Nj9AhWI63MBHfYyCnMQMygzegQIARBe)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush2002-de&label=Profile%20views&color=0e75b6&style=flat" alt="ayush2002-de" /> </p>
 
